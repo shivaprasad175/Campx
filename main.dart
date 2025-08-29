@@ -65,7 +65,7 @@ class HomeScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'Hi Marsakatla Manoj,',
+                    'Hi M Shiva Prasad,',
                     style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
                   ),
                   SizedBox(height: 8),
@@ -350,3 +350,4 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
+
